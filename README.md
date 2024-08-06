@@ -4,7 +4,7 @@ I'm Vaibhav Katiyar, a Web Developer passionate about learning new technologies,
 
 ## About Me
 
-- 🎓 3rd Year Btech Undergrad
+- 🎓 4th Year Btech Undergrad
 - 📧 vaibhavkatiyarvk157@gmail.com
 
 ## Skills
